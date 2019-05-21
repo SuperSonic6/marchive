@@ -1,6 +1,12 @@
+h1 {
+  text-align: center;
+  font-family: "Arial", sans-serif;
+  font-size: 32px;
+}
+
 p {
   color: black;
   text-align: center;
   border: 3px solid blue;
-  font-family: "verdana", sans-serif;
+  font-family: "Arial", sans-serif;
 }
